@@ -3,7 +3,7 @@ import type { StoryObj, Meta } from "@storybook/react";
 import { Box, BoxProps, Text } from "@design-ui/react";
 
 export default {
-  title: "Form/Box",
+  title: "Surfaces/Box",
   component: Box,
 
   args: {

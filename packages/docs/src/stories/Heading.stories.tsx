@@ -3,7 +3,7 @@ import type { StoryObj, Meta } from "@storybook/react";
 import { Heading, HeadingProps } from "@design-ui/react";
 
 export default {
-  title: "Typography/Text",
+  title: "Typography/Heading",
   component: Heading,
 
   args: {
@@ -17,5 +17,13 @@ export const CustomTag: StoryObj<HeadingProps> = {
   args: {
     children: "H1 Heading",
     as: "h1",
+  },
+  parameters: {
+    docs: {
+      description: {
+        story:
+          "Por padrão o heading sempre será um `h2`, mas pode alterar isso com a propriedade `as`.",
+      },
+    },
   },
 };
