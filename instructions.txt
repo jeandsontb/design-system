@@ -1,0 +1,6 @@
+roda npm install na pasta raiz (design-system)
+
+depois entra na pasta docs e roda esse comando 
+npx sb init --builder @storybook/builder-vite --type react --use-npm
+
+verifica se tem a pasta node modules dentro de docs se não tiver roda yarn install
