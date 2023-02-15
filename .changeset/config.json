@@ -7,5 +7,5 @@
   "access": "public",
   "baseBranch": "main",
   "updateInternalDependencies": "patch",
-  "ignore": ["@design-ui/docs"]
+  "ignore": ["@pocdesign-ui-components/docs"]
 }

@@ -1,6 +1,6 @@
 /* eslint-disable prettier/prettier */
 import type { StoryObj, Meta } from "@storybook/react";
-import { Box, MultStep, MultStepProps } from "@design-ui/react";
+import { Box, MultStep, MultStepProps } from "@pocdesign-ui-components/react";
 
 export default {
   title: "Form/Mult Step",

@@ -7,7 +7,7 @@ import {
   lineHeights,
   radii,
   space,
-} from "@design-ui/tokens";
+} from "@pocdesign-ui-components/tokens";
 import { createStitches, defaultThemeMap } from "@stitches/react";
 
 export const {

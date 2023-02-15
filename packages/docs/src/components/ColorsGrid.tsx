@@ -1,5 +1,5 @@
 /* eslint-disable prettier/prettier */
-import { colors } from "@design-ui/tokens";
+import { colors } from "@pocdesign-ui-components/tokens";
 import { getContrast } from "polished";
 
 export function ColorsGrid() {

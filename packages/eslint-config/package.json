@@ -1,5 +1,6 @@
 {
-  "name": "@design-ui/eslint-config",
+  "name": "@pocdesign-ui-components/eslint-config",
+  "version": "1.0.0",
   "license": "MIT",
   "private": true,
   "main": "index.js",

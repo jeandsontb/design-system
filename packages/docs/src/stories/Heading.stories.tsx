@@ -1,6 +1,6 @@
 /* eslint-disable prettier/prettier */
 import type { StoryObj, Meta } from "@storybook/react";
-import { Heading, HeadingProps } from "@design-ui/react";
+import { Heading, HeadingProps } from "@pocdesign-ui-components/react";
 
 export default {
   title: "Typography/Heading",

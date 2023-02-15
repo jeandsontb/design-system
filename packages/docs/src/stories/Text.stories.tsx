@@ -1,6 +1,6 @@
 /* eslint-disable prettier/prettier */
 import type { StoryObj, Meta } from "@storybook/react";
-import { Text, TextProps } from "@design-ui/react";
+import { Text, TextProps } from "@pocdesign-ui-components/react";
 
 export default {
   title: "Typography/Text",

@@ -1,5 +1,5 @@
 {
-  "name": "@design-ui/tokens",
+  "name": "@pocdesign-ui-components/tokens",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -14,8 +14,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@design-ui/ts-config": "*",
-    "@design-ui/eslint-config": "*",
+    "@pocdesign-ui-components/ts-config": "*",
+    "@pocdesign-ui-components/eslint-config": "*",
     "tsup": "^6.5.0",
     "typescript": "^4.9.5"
   }

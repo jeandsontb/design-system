@@ -1,6 +1,6 @@
 /* eslint-disable prettier/prettier */
 import type { StoryObj, Meta } from "@storybook/react";
-import { Box, BoxProps, Text } from "@design-ui/react";
+import { Box, BoxProps, Text } from "@pocdesign-ui-components/react";
 
 export default {
   title: "Surfaces/Box",

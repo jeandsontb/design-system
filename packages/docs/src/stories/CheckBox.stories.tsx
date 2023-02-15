@@ -1,6 +1,11 @@
 /* eslint-disable prettier/prettier */
 import type { StoryObj, Meta } from "@storybook/react";
-import { Box, Text, Checkbox, CheckBoxProps } from "@design-ui/react";
+import {
+  Box,
+  Text,
+  Checkbox,
+  CheckBoxProps,
+} from "@pocdesign-ui-components/react";
 
 export default {
   title: "Form/CheckBox",

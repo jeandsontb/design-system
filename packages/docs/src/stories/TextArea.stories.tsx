@@ -1,6 +1,11 @@
 /* eslint-disable prettier/prettier */
 import type { StoryObj, Meta } from "@storybook/react";
-import { Box, Text, TextArea, TextAreaProps } from "@design-ui/react";
+import {
+  Box,
+  Text,
+  TextArea,
+  TextAreaProps,
+} from "@pocdesign-ui-components/react";
 
 export default {
   title: "Form/Text Area",
