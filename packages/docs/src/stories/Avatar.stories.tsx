@@ -10,6 +10,13 @@ export default {
     src: "https://avatars.githubusercontent.com/u/53402919?v=4",
     alt: "Jeandson Tenorio",
   },
+  argTypes: {
+    src: {
+      control: {
+        type: "text",
+      },
+    },
+  },
 } as Meta<AvatarProps>;
 
 export const Primary: StoryObj<AvatarProps> = {};
