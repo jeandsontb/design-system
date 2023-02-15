@@ -1,0 +1,2 @@
+import{A as t}from"./index-9563d26f.js";import"./index-39d17dc8.js";import"./es.object.get-own-property-descriptor-037fa860.js";import"./index-f97499ea.js";import"./jsx-runtime-310bfdac.js";const e={title:"Data display/Avatar",component:t,args:{src:"https://avatars.githubusercontent.com/u/53402919?v=4",alt:"Jeandson Tenorio"},argTypes:{src:{control:{type:"text"}}}},c={},n={args:{src:void 0}},p=["Primary","WithFallback"];export{c as Primary,n as WithFallback,p as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories-4276e768.js.map
